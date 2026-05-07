@@ -1,7 +1,7 @@
-# StressGait-MM
+# SVGait
 
 Multi-modal gait dataset and benchmark for binary cognitive-stress detection,
-pairing skeleton video (three calibrated viewpoints) with geophone
+pairing skeleton video (three calibrated viewpoints) with two geophone
 floor-vibration recordings.
 
 ---
@@ -9,7 +9,7 @@ floor-vibration recordings.
 ## Repository layout
 
 ```
-stressgait/
+SVGait/
 ├── config.py               ← Edit this to set data paths & hyperparameters
 ├── run.py                  ← Main entry point
 ├── requirements.txt
